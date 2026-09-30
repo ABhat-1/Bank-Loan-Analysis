@@ -20,15 +20,7 @@ What is the total amount received?
 
 How is the loan portfolio performing?
 
-What percentage of applications are approved?
-
-What is the distribution of loan applications by status?
-
-How do loan applications change over time?
-
-Which segments contribute most to the overall loan portfolio?
-
-What trends can be identified from the financial data?
+What is the distribution of loan applications by employment length, month, state and purpose?
 
 **🛠️ Tools & Technologies**
 
@@ -54,15 +46,13 @@ Data Visualization
 
 The dashboard tracks important financial and loan-related KPIs, including:
 
-**
-KPI	Description**
+**KPI	Description**
 
-📋 Total Loan Applications	Total number of loan applications
-💰 Funded Amount	Total amount funded through approved loans
-💵 Amount Received	Total amount received from borrowers
-📊 Average Loan Amount	Average value of loans
-📈 Loan Status	Distribution of applications by loan status
-📅 Application Trends	Loan application activity over time
+📋 Total Loan Applications -	Total number of loan applications
+💰 Funded Amount	- Total amount funded through approved loans
+💵 Amount Received	- Total amount received from borrowers
+📊 Average Interest Rate
+
 
 **📊 Dashboard Features**
 
@@ -85,8 +75,8 @@ Dashboard navigation buttons
 Clean and user-friendly layout
 
 These features allow users to interact with the data and analyze different aspects of the loan portfolio.
-**
-🔍 Analysis Performed**
+
+**🔍 Analysis Performed**
 
 Loan Performance
 
@@ -97,7 +87,7 @@ Funded loan amounts
 
 Amount received
 
-Average loan values
+Average interest rate
 
 Loan application performance
 
